@@ -4,8 +4,7 @@ A login app with using react native and firebase for user authentication
 1) Run npm install
 2) react-native run-android
 
-![chat2](https://user-images.githubusercontent.com/16244953/55546834-fe832900-56c7-11e9-9093-c78382bae9b6.JPG)
-![chat3](https://user-images.githubusercontent.com/16244953/55546836-ff1bbf80-56c7-11e9-9a67-82976820b076.JPG)
-![chat1](https://user-images.githubusercontent.com/16244953/55546838-ff1bbf80-56c7-11e9-9554-efc14f03cfce.JPG)
+![lg2](https://user-images.githubusercontent.com/16244953/55706175-71e2ae80-59d8-11e9-955c-71a21bbcc154.JPG)
+![lg1](https://user-images.githubusercontent.com/16244953/55706177-727b4500-59d8-11e9-984b-ec4492d8d146.JPG)
 
 
